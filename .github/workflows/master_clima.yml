@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Clima'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C14F1C08EE94D279610E393EBF9E9B3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F06C5B8CFE4348D5926B4DAF3CD04EB7 }}
           package: .
